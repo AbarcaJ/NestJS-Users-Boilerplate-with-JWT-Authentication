@@ -1,0 +1,6 @@
+export enum Role {
+  // SUPERVISOR = 'SK43GLXJGFA',
+  ADMIN = 'SDSA576434',
+  CLIENT = 'B734SDJ34HG',
+  CANDIDATE = 'DBSD47JHG3',
+}
